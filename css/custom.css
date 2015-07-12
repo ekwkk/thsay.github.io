@@ -12,3 +12,7 @@ body{
 .anchor {
 	padding-bottom: 35px;
 }
+
+.btn{
+	color:danger;
+}
